@@ -14,3 +14,10 @@ description: Folder of full javascript notes.
 * Strict / Referential Equality **===**
 * Loose equality **==**
 
+## Types of object's key accessing names
+
+* Dot notation `obj.name`
+* Bracket notation `obj['name']`
+
+\`\`
+
